@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Repository ini berisi analisis data terkait keputusan melanjutkan pendidikan MBA setelah menyelesaikan gelar sarjana. Menggunakan dataset dari Kaggle, proyek ini mengeksplorasi faktor-faktor yang mempengaruhi seseorang dalam mengambil keputusan untuk melanjutkan ke jenjang MBA.
+Repository ini berisi analisis data terkait keputusan melanjutkan pendidikan MBA setelah menyelesaikan gelar sarjana. Menggunakan dataset dari Kaggle, proyek ini mengeksplorasi faktor-faktor yang mempengaruhi seseorang dalam mengambil keputusan untuk melanjutkan ke jenjang MBA. Link Streamlit
 
 ## 📂 Dataset
 
