@@ -11,6 +11,8 @@ Dataset yang digunakan dalam proyek ini berasal dari Kaggle:
 
 Dataset ini berisi berbagai faktor seperti pengalaman kerja, latar belakang pendidikan, dan preferensi individu yang dapat memengaruhi keputusan untuk melanjutkan MBA.
 
+NB : Creator Delete This Datasets _-
+
 ## 🛠 Tech Stack
 
 * Python 🐍
